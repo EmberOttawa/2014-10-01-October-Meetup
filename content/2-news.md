@@ -43,59 +43,12 @@
 - [Beginning to understand the Ember.js Container](http://ember.zone/beginning-to-understand-the-ember-js-container/) by John McDowall
 - [Bringing Sanity to JavaScript UTC Dates with Moment.js and Ember Data](http://blog.skylight.io/bringing-sanity-to-javascript-utc-dates-with-moment-js-and-ember-data/) by Tom Dale
 
-
----
-
-### Videos
-
 --
-
-<!-- #### [Wicked Good Ember Conference Videos](https://www.youtube.com/watch?v=hygxGDjhGp8&list=PLGR618id1By1_5dRbPRcOPsjWvYWDXOIv)
-
-<iframe width="854" height="510" src="//www.youtube.com/embed/hygxGDjhGp8" frameborder="0" allowfullscreen></iframe>
-
---
-
-#### [How to debug an Ember.js application - Robin Ward (aka EvilTrout)](https://www.youtube.com/watch?v=mXHzC0LdTuk)
-
-<iframe width="854" height="510" src="//www.youtube.com/embed/mXHzC0LdTuk" frameborder="0" allowfullscreen></iframe>
-
---
-
-#### [Using Pretender to mock a server with Ember.js - Robin Ward (aka EvilTrout)](https://www.youtube.com/watch?v=b5VUnc_GsV4)
-
-<iframe width="854" height="510" src="//www.youtube.com/embed/b5VUnc_GsV4" frameborder="0" allowfullscreen></iframe> -->
-
----
-
-### Code
-
---
-
-<!-- #### [Liquid Fire](https://github.com/ef4/liquid-fire)
-
-- Comprehensive animation support for ambitious Ember applications.
-- [Demo](http://ef4.github.io/liquid-fire)
-
---
-
-#### [ember-orbit](https://github.com/orbitjs/ember-orbit)
-
-- Ember.js data layer built with Orbit.js
-
---
-
-#### [Torii](http://vestorly.github.io/torii/)
-
-- Torii is an authorization service library for your Ember.js application
-- [Demo](http://vestorly.github.io/torii/demo.html)
-
----
 
 [![ember weekly logo](img/ember-weekly-logo.png)](http://emberweekly.com)
 
 Brought to you by [Ember Weekly](http://emberweekly.com)
- -->
+
 --
 
 #### Did I miss something?
